@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "discord-webhook-node": "^1.1.8",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "name": "redis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "engines": {
+    "node":"18.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
